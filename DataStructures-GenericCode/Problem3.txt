@@ -1,0 +1,15 @@
+Notes on results from java document Problem3
+
+Cubic run times: as n increases, the amount of time similarly increases,
+getting much larger each time
+
+
+Exponential run times: as n increases, the time gets a lot larger each
+time... except with test 2, I'm not sure why it goes down on test 2...
+I also tried it with slightly larger numbers but it was taking too long 
+to finish, which I take as a good sign
+
+
+Constant run times: all of the run times are on a similar order of magnitude,
+around 27000 nano seconds, any discrepancies have to do with accessing memory 
+because no matter what the n is, it is doing the exact same amount of work.
