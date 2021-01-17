@@ -1,0 +1,2 @@
+# wicked-smart
+past projects
